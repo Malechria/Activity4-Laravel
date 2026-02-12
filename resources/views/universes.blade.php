@@ -52,7 +52,7 @@
             background-color: #f8f8f8;
         }
         tr:hover {
-            background-color: #e8f4f8; /* Color al pasar el mouse */
+            background-color: #e8f4f8; 
             transition: background-color 0.3s ease;
         }
         .badge {
